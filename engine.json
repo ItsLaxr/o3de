@@ -1,9 +1,9 @@
 {
-    "engine_name": "o3de",
-    "restricted": "o3de",
+    "engine_name": "BOGE",
+    "restricted": "boge",
     "FileVersion": 1,
-    "O3DEVersion": "0.0.0.0",
-    "O3DECopyrightYear": 2021,
+    "O3DEVersion": "1.0.0.5",
+    "O3DECopyrightYear": 2022,
     "O3DEBuildNumber": 0,
     "external_subdirectories": [
         "Gems/Achievements",
